@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\SmirnovaPR1.props" />
+</Project>
