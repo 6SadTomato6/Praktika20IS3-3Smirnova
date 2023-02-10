@@ -63,5 +63,6 @@ namespace SmirnovaPR1.Controllers
             }
             return Summaries[index];
         }
+        int x = 0;
     }
 }
