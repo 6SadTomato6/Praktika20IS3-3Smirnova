@@ -4,4 +4,5 @@
 
 # Привет, я Екатерина
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Практические+работы+по+практике)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Практическая+№1)](https://github.com/6SadTomato6/Praktika20IS3-3Smirnova/tree/main/SmirnovaPR1)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Практическая+№2)](https://github.com/6SadTomato6/Praktika20IS3-3Smirnova/tree/main/SmirnovaPR2) 
