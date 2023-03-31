@@ -1,0 +1,15 @@
+D:\Колледж\3_КУРС\УЧЕБНАЯ ПРАКТИКА\BusinessLogic\obj\Debug\net6.0\BusinessLogic.csproj.AssemblyReference.cache
+D:\Колледж\3_КУРС\УЧЕБНАЯ ПРАКТИКА\BusinessLogic\obj\Debug\net6.0\BusinessLogic.GeneratedMSBuildEditorConfig.editorconfig
+D:\Колледж\3_КУРС\УЧЕБНАЯ ПРАКТИКА\BusinessLogic\obj\Debug\net6.0\BusinessLogic.AssemblyInfoInputs.cache
+D:\Колледж\3_КУРС\УЧЕБНАЯ ПРАКТИКА\BusinessLogic\obj\Debug\net6.0\BusinessLogic.AssemblyInfo.cs
+D:\Колледж\3_КУРС\УЧЕБНАЯ ПРАКТИКА\BusinessLogic\obj\Debug\net6.0\BusinessLogic.csproj.CoreCompileInputs.cache
+D:\Колледж\3_КУРС\УЧЕБНАЯ ПРАКТИКА\BusinessLogic\bin\Debug\net6.0\BusinessLogic.deps.json
+D:\Колледж\3_КУРС\УЧЕБНАЯ ПРАКТИКА\BusinessLogic\bin\Debug\net6.0\BusinessLogic.dll
+D:\Колледж\3_КУРС\УЧЕБНАЯ ПРАКТИКА\BusinessLogic\bin\Debug\net6.0\BusinessLogic.pdb
+D:\Колледж\3_КУРС\УЧЕБНАЯ ПРАКТИКА\BusinessLogic\bin\Debug\net6.0\DataAccess.dll
+D:\Колледж\3_КУРС\УЧЕБНАЯ ПРАКТИКА\BusinessLogic\bin\Debug\net6.0\DataAccess.pdb
+D:\Колледж\3_КУРС\УЧЕБНАЯ ПРАКТИКА\BusinessLogic\obj\Debug\net6.0\BusinessLogic.csproj.CopyComplete
+D:\Колледж\3_КУРС\УЧЕБНАЯ ПРАКТИКА\BusinessLogic\obj\Debug\net6.0\BusinessLogic.dll
+D:\Колледж\3_КУРС\УЧЕБНАЯ ПРАКТИКА\BusinessLogic\obj\Debug\net6.0\refint\BusinessLogic.dll
+D:\Колледж\3_КУРС\УЧЕБНАЯ ПРАКТИКА\BusinessLogic\obj\Debug\net6.0\BusinessLogic.pdb
+D:\Колледж\3_КУРС\УЧЕБНАЯ ПРАКТИКА\BusinessLogic\obj\Debug\net6.0\ref\BusinessLogic.dll
