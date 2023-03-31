@@ -230,11 +230,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Колледж\\3_КУРС\\УЧЕБНАЯ ПРАКТИКА\\SmirnovaPR2\\SmirnovaPR2.csproj",
+      "projectUniqueName": "D:\\Колледж\\3_КУРС\\УЧЕБНАЯ ПРАКТИКА\\Praktika20IS3-3Smirnova\\SmirnovaPR2\\SmirnovaPR2.csproj",
       "projectName": "SmirnovaPR2",
-      "projectPath": "D:\\Колледж\\3_КУРС\\УЧЕБНАЯ ПРАКТИКА\\SmirnovaPR2\\SmirnovaPR2.csproj",
+      "projectPath": "D:\\Колледж\\3_КУРС\\УЧЕБНАЯ ПРАКТИКА\\Praktika20IS3-3Smirnova\\SmirnovaPR2\\SmirnovaPR2.csproj",
       "packagesPath": "C:\\Users\\elena\\.nuget\\packages\\",
-      "outputPath": "D:\\Колледж\\3_КУРС\\УЧЕБНАЯ ПРАКТИКА\\SmirnovaPR2\\obj\\",
+      "outputPath": "D:\\Колледж\\3_КУРС\\УЧЕБНАЯ ПРАКТИКА\\Praktika20IS3-3Smirnova\\SmirnovaPR2\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -291,7 +291,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
       }
     }
   }

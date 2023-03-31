@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "NJ+K2qy6h51tFGtdZaOVkmb/WRNYFD2VO8JEi/u0FCh1FllEjgs0e452EJURcZcah5MKbS0pXbFdVTX/RSoTRQ==",
+  "dgSpecHash": "WPNq3Vtagog4Sao2jrD5VAlXSIIsck0CM7KkCI5aEEtT/Idey4UilSDdY6aZjZ7jDRozjbXyvY1v2eDIOyC8Hg==",
   "success": true,
-  "projectFilePath": "D:\\Колледж\\3_КУРС\\УЧЕБНАЯ ПРАКТИКА\\SmirnovaPR2\\SmirnovaPR2.csproj",
+  "projectFilePath": "D:\\Колледж\\3_КУРС\\УЧЕБНАЯ ПРАКТИКА\\Praktika20IS3-3Smirnova\\SmirnovaPR2\\SmirnovaPR2.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\elena\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
     "C:\\Users\\elena\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
