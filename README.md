@@ -11,4 +11,5 @@
 <h1 align="center">Моя база данных
 </p><img src="https://github.com/6SadTomato6/Praktika20IS3-3Smirnova/blob/main/misc/database.jpg" align="middle"></p>
 <h1 align="center">Май таскс
-</p><img src="https://github.com/6SadTomato6/Praktika20IS3-3Smirnova/blob/1.jpg" align="middle"></p>
+</p><img src="https://github.com/6SadTomato6/Praktika20IS3-3Smirnova/blob/main/SmirnovaPR3/1.jpg" align="middle"></p>
+
