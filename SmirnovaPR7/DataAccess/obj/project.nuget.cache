@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "p6sUKwj0JE5HX7a/JgWShg2GlxglswwGrqSgOp0E514yVVtfisKOPAR/8q9OBnzsl4md6dGK59dYISAGulROog==",
+  "dgSpecHash": "iyczhYOFHUjZKWB3klP/8d1fDX08Uo7rPQdoVak5MoFpItV8DxFr3zR4H0HIS+xvpFASuogx4WNM7LznKLEMDA==",
   "success": true,
-  "projectFilePath": "D:\\Колледж\\3_КУРС\\УЧЕБНАЯ ПРАКТИКА\\DataAccess\\DataAccess.csproj",
+  "projectFilePath": "D:\\Колледж\\3_КУРС\\УЧЕБНАЯ ПРАКТИКА\\Praktika20IS3-3Smirnova\\SmirnovaPR7\\DataAccess\\DataAccess.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\elena\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\elena\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",

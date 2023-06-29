@@ -26,3 +26,17 @@ E:\Колледж\3_КУРС\УЧЕБНАЯ ПРАКТИКА\Domain\obj\Debug\ne
 E:\Колледж\3_КУРС\УЧЕБНАЯ ПРАКТИКА\Domain\obj\Debug\net6.0\Domain.pdb
 E:\Колледж\3_КУРС\УЧЕБНАЯ ПРАКТИКА\Domain\obj\Debug\net6.0\Domain.genruntimeconfig.cache
 E:\Колледж\3_КУРС\УЧЕБНАЯ ПРАКТИКА\Domain\obj\Debug\net6.0\ref\Domain.dll
+D:\Колледж\3_КУРС\УЧЕБНАЯ ПРАКТИКА\Praktika20IS3-3Smirnova\SmirnovaPR7\Domain\bin\Debug\net6.0\Domain.deps.json
+D:\Колледж\3_КУРС\УЧЕБНАЯ ПРАКТИКА\Praktika20IS3-3Smirnova\SmirnovaPR7\Domain\bin\Debug\net6.0\Domain.runtimeconfig.json
+D:\Колледж\3_КУРС\УЧЕБНАЯ ПРАКТИКА\Praktika20IS3-3Smirnova\SmirnovaPR7\Domain\bin\Debug\net6.0\Domain.dll
+D:\Колледж\3_КУРС\УЧЕБНАЯ ПРАКТИКА\Praktika20IS3-3Smirnova\SmirnovaPR7\Domain\bin\Debug\net6.0\Domain.pdb
+D:\Колледж\3_КУРС\УЧЕБНАЯ ПРАКТИКА\Praktika20IS3-3Smirnova\SmirnovaPR7\Domain\obj\Debug\net6.0\Domain.csproj.AssemblyReference.cache
+D:\Колледж\3_КУРС\УЧЕБНАЯ ПРАКТИКА\Praktika20IS3-3Smirnova\SmirnovaPR7\Domain\obj\Debug\net6.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Колледж\3_КУРС\УЧЕБНАЯ ПРАКТИКА\Praktika20IS3-3Smirnova\SmirnovaPR7\Domain\obj\Debug\net6.0\Domain.AssemblyInfoInputs.cache
+D:\Колледж\3_КУРС\УЧЕБНАЯ ПРАКТИКА\Praktika20IS3-3Smirnova\SmirnovaPR7\Domain\obj\Debug\net6.0\Domain.AssemblyInfo.cs
+D:\Колледж\3_КУРС\УЧЕБНАЯ ПРАКТИКА\Praktika20IS3-3Smirnova\SmirnovaPR7\Domain\obj\Debug\net6.0\Domain.csproj.CoreCompileInputs.cache
+D:\Колледж\3_КУРС\УЧЕБНАЯ ПРАКТИКА\Praktika20IS3-3Smirnova\SmirnovaPR7\Domain\obj\Debug\net6.0\Domain.dll
+D:\Колледж\3_КУРС\УЧЕБНАЯ ПРАКТИКА\Praktika20IS3-3Smirnova\SmirnovaPR7\Domain\obj\Debug\net6.0\refint\Domain.dll
+D:\Колледж\3_КУРС\УЧЕБНАЯ ПРАКТИКА\Praktika20IS3-3Smirnova\SmirnovaPR7\Domain\obj\Debug\net6.0\Domain.pdb
+D:\Колледж\3_КУРС\УЧЕБНАЯ ПРАКТИКА\Praktika20IS3-3Smirnova\SmirnovaPR7\Domain\obj\Debug\net6.0\Domain.genruntimeconfig.cache
+D:\Колледж\3_КУРС\УЧЕБНАЯ ПРАКТИКА\Praktika20IS3-3Smirnova\SmirnovaPR7\Domain\obj\Debug\net6.0\ref\Domain.dll

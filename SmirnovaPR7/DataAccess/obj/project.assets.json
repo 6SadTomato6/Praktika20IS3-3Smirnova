@@ -2038,11 +2038,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Колледж\\3_КУРС\\УЧЕБНАЯ ПРАКТИКА\\DataAccess\\DataAccess.csproj",
+      "projectUniqueName": "D:\\Колледж\\3_КУРС\\УЧЕБНАЯ ПРАКТИКА\\Praktika20IS3-3Smirnova\\SmirnovaPR7\\DataAccess\\DataAccess.csproj",
       "projectName": "DataAccess",
-      "projectPath": "D:\\Колледж\\3_КУРС\\УЧЕБНАЯ ПРАКТИКА\\DataAccess\\DataAccess.csproj",
+      "projectPath": "D:\\Колледж\\3_КУРС\\УЧЕБНАЯ ПРАКТИКА\\Praktika20IS3-3Smirnova\\SmirnovaPR7\\DataAccess\\DataAccess.csproj",
       "packagesPath": "C:\\Users\\elena\\.nuget\\packages\\",
-      "outputPath": "D:\\Колледж\\3_КУРС\\УЧЕБНАЯ ПРАКТИКА\\DataAccess\\obj\\",
+      "outputPath": "D:\\Колледж\\3_КУРС\\УЧЕБНАЯ ПРАКТИКА\\Praktika20IS3-3Smirnova\\SmirnovaPR7\\DataAccess\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -2063,8 +2063,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "D:\\Колледж\\3_КУРС\\УЧЕБНАЯ ПРАКТИКА\\Domain\\Domain.csproj": {
-              "projectPath": "D:\\Колледж\\3_КУРС\\УЧЕБНАЯ ПРАКТИКА\\Domain\\Domain.csproj"
+            "D:\\Колледж\\3_КУРС\\УЧЕБНАЯ ПРАКТИКА\\Praktika20IS3-3Smirnova\\SmirnovaPR7\\Domain\\Domain.csproj": {
+              "projectPath": "D:\\Колледж\\3_КУРС\\УЧЕБНАЯ ПРАКТИКА\\Praktika20IS3-3Smirnova\\SmirnovaPR7\\Domain\\Domain.csproj"
             }
           }
         }

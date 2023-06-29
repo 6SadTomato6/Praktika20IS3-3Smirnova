@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "UBCp0Eo3tAupVUucldzTisrFhRhMX9tOvtHX/GLy7X7WKgzuF0doBhzNvIBUMGsUbs9g5HHT3TIk1kKif7Qg/g==",
+  "dgSpecHash": "vrkbeCCkq7SU16/tWmrM54BZCdCF/2bD5JqznNUoNZFOH69iAi0CxPJ6GpdIT0vu+33mxAADzIUCUDi3Hg7okg==",
   "success": true,
-  "projectFilePath": "D:\\Колледж\\3_КУРС\\УЧЕБНАЯ ПРАКТИКА\\Domain\\Domain.csproj",
+  "projectFilePath": "D:\\Колледж\\3_КУРС\\УЧЕБНАЯ ПРАКТИКА\\Praktika20IS3-3Smirnova\\SmirnovaPR7\\Domain\\Domain.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\elena\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\elena\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",

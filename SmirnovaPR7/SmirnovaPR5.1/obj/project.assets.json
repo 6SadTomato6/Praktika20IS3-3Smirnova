@@ -2290,11 +2290,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Колледж\\3_КУРС\\УЧЕБНАЯ ПРАКТИКА\\SmirnovaPR5.1\\SmirnovaPR5.1.csproj",
+      "projectUniqueName": "D:\\Колледж\\3_КУРС\\УЧЕБНАЯ ПРАКТИКА\\Praktika20IS3-3Smirnova\\SmirnovaPR7\\SmirnovaPR5.1\\SmirnovaPR5.1.csproj",
       "projectName": "SmirnovaPR5.1",
-      "projectPath": "D:\\Колледж\\3_КУРС\\УЧЕБНАЯ ПРАКТИКА\\SmirnovaPR5.1\\SmirnovaPR5.1.csproj",
+      "projectPath": "D:\\Колледж\\3_КУРС\\УЧЕБНАЯ ПРАКТИКА\\Praktika20IS3-3Smirnova\\SmirnovaPR7\\SmirnovaPR5.1\\SmirnovaPR5.1.csproj",
       "packagesPath": "C:\\Users\\elena\\.nuget\\packages\\",
-      "outputPath": "D:\\Колледж\\3_КУРС\\УЧЕБНАЯ ПРАКТИКА\\SmirnovaPR5.1\\obj\\",
+      "outputPath": "D:\\Колледж\\3_КУРС\\УЧЕБНАЯ ПРАКТИКА\\Praktika20IS3-3Smirnova\\SmirnovaPR7\\SmirnovaPR5.1\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -2315,11 +2315,11 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "D:\\Колледж\\3_КУРС\\УЧЕБНАЯ ПРАКТИКА\\BusinessLogic\\BusinessLogic.csproj": {
-              "projectPath": "D:\\Колледж\\3_КУРС\\УЧЕБНАЯ ПРАКТИКА\\BusinessLogic\\BusinessLogic.csproj"
+            "D:\\Колледж\\3_КУРС\\УЧЕБНАЯ ПРАКТИКА\\Praktika20IS3-3Smirnova\\SmirnovaPR7\\BusinessLogic\\BusinessLogic.csproj": {
+              "projectPath": "D:\\Колледж\\3_КУРС\\УЧЕБНАЯ ПРАКТИКА\\Praktika20IS3-3Smirnova\\SmirnovaPR7\\BusinessLogic\\BusinessLogic.csproj"
             },
-            "D:\\Колледж\\3_КУРС\\УЧЕБНАЯ ПРАКТИКА\\DataAccess\\DataAccess.csproj": {
-              "projectPath": "D:\\Колледж\\3_КУРС\\УЧЕБНАЯ ПРАКТИКА\\DataAccess\\DataAccess.csproj"
+            "D:\\Колледж\\3_КУРС\\УЧЕБНАЯ ПРАКТИКА\\Praktika20IS3-3Smirnova\\SmirnovaPR7\\DataAccess\\DataAccess.csproj": {
+              "projectPath": "D:\\Колледж\\3_КУРС\\УЧЕБНАЯ ПРАКТИКА\\Praktika20IS3-3Smirnova\\SmirnovaPR7\\DataAccess\\DataAccess.csproj"
             }
           }
         }
