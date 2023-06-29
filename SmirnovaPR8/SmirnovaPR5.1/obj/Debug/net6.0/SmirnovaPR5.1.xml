@@ -1,0 +1,63 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>SmirnovaPR5.1</name>
+    </assembly>
+    <members>
+        <member name="M:SmirnovaPR5._1.Controllers.UserController.GetAll">
+            <summary>
+            Просмотр всех записей в БД
+            </summary>
+        </member>
+        <member name="M:SmirnovaPR5._1.Controllers.UserController.GetById(System.Int32)">
+            <summary>
+            Просмотр всех записей по id
+            </summary>
+        </member>
+        <member name="M:SmirnovaPR5._1.Controllers.UserController.Add(SmirnovaPR5._1.Contracts.User.CreateUserRequest)">
+             <summary>
+             Создание нового пользователя
+             </summary>
+             <remarks>
+             Пример запроса:
+            
+                 POST /Todo
+                 {
+                     "customerID" = 5,
+                     "customerFname" = "Иван",
+                     "customerLname" = "Иванво",
+                     "customerEmail" = "email@mail.ru",
+                     "role" = "user"
+                 }
+            
+             </remarks>
+             <param name="model">Пользователь</param>
+             <returns></returns>
+        </member>
+        <member name="M:SmirnovaPR5._1.Controllers.UserController.Update(SmirnovaPR5._1.Contracts.User.CreateUserRequest)">
+             <summary>
+             Обновление пользователя
+             </summary>
+             <remarks>
+             Пример запроса:
+            
+                 POST /Todo
+                 {
+                     "customerID" = 5,
+                     "customerFname" = "Иван",
+                     "customerLname" = "Иванво",
+                     "customerEmail" = "email@mail.ru",
+                     "role" = "user"
+                 }
+            
+             </remarks>
+             <param name="model">Пользователь</param>
+             <returns></returns>
+        </member>
+        <member name="M:SmirnovaPR5._1.Controllers.UserController.Delete(System.Int32)">
+            <summary>
+            Удаление записей по id
+            </summary>
+        </member>
+    </members>
+</doc>
