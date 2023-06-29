@@ -13,7 +13,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%6666FCF0&lines=Скриншоты+по+ПР+№6)](https://github.com/6SadTomato6/Praktika20IS3-3Smirnova/tree/main/%D0%A1%D0%BA%D1%80%D0%B8%D0%BD%D1%88%D0%BE%D1%82%D1%8B%D0%9F%D0%BE%D0%9F%D0%A06)
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%6666FCF0&lines=Практическая+№7)](https://github.com/6SadTomato6/Praktika20IS3-3Smirnova/tree/main/SmirnovaPR7)
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%6666FCF0&lines=Скриншоты+по+ПР+№7)](https://github.com/6SadTomato6/Praktika20IS3-3Smirnova/tree/main/%D0%A1%D0%BA%D1%80%D0%B8%D0%BD%D1%88%D0%BE%D1%82%D1%8B%D0%9F%D0%BE%D0%9F%D0%A07)
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%6666FCF0&lines=Практическая+№8)](https://github.com/6SadTomato6/Praktika20IS3-3Smirnova/tree/main/SmirnovaPR7)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%6666FCF0&lines=Практическая+№8)](https://github.com/6SadTomato6/Praktika20IS3-3Smirnova/tree/main/SmirnovaPR8)
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%6666FCF0&lines=Скриншоты+по+ПР+№8)](https://github.com/6SadTomato6/Praktika20IS3-3Smirnova/tree/main/%D0%A1%D0%BA%D1%80%D0%B8%D0%BD%D1%88%D0%BE%D1%82%D1%8B%D0%9F%D0%BE%D0%9F%D0%A07)
 
 <h1 align="center">Май таскс (ПР №3)
