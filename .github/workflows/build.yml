@@ -1,0 +1,31 @@
+name: Сборка проекта
+on:
+push:
+branches:
+- master
+pull_request:
+branches:
+- master
+
+jobs:
+build:
+runs-on: ubuntu-latest
+
+steps:
+- name: Шаг 1 - Получение кода
+uses: actions/checkout@v2
+
+- name: Шаг 2 - Установка зависимостей
+run: |
+npm install
+# Или использовать yarn
+# yarn install
+
+- name: Шаг 3 - Сборка проекта
+run: |
+npm run build
+# Или другая команда сборки
+
+- name: Шаг 4 - Тестирование
+run: npm run test
+# Или другая команда тестирования
