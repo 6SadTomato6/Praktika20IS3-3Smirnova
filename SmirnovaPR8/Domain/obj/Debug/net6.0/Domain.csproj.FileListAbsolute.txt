@@ -54,3 +54,17 @@ D:\Колледж\3_КУРС\УЧЕБНАЯ ПРАКТИКА\Praktika20IS3-3Smir
 D:\Колледж\3_КУРС\УЧЕБНАЯ ПРАКТИКА\Praktika20IS3-3Smirnova\SmirnovaPR8\Domain\obj\Debug\net6.0\Domain.pdb
 D:\Колледж\3_КУРС\УЧЕБНАЯ ПРАКТИКА\Praktika20IS3-3Smirnova\SmirnovaPR8\Domain\obj\Debug\net6.0\Domain.genruntimeconfig.cache
 D:\Колледж\3_КУРС\УЧЕБНАЯ ПРАКТИКА\Praktika20IS3-3Smirnova\SmirnovaPR8\Domain\obj\Debug\net6.0\ref\Domain.dll
+E:\Колледж\3_КУРС\УЧЕБНАЯ ПРАКТИКА\Praktika20IS3-3Smirnova\SmirnovaPR8\Domain\bin\Debug\net6.0\Domain.deps.json
+E:\Колледж\3_КУРС\УЧЕБНАЯ ПРАКТИКА\Praktika20IS3-3Smirnova\SmirnovaPR8\Domain\bin\Debug\net6.0\Domain.runtimeconfig.json
+E:\Колледж\3_КУРС\УЧЕБНАЯ ПРАКТИКА\Praktika20IS3-3Smirnova\SmirnovaPR8\Domain\bin\Debug\net6.0\Domain.dll
+E:\Колледж\3_КУРС\УЧЕБНАЯ ПРАКТИКА\Praktika20IS3-3Smirnova\SmirnovaPR8\Domain\bin\Debug\net6.0\Domain.pdb
+E:\Колледж\3_КУРС\УЧЕБНАЯ ПРАКТИКА\Praktika20IS3-3Smirnova\SmirnovaPR8\Domain\obj\Debug\net6.0\Domain.csproj.AssemblyReference.cache
+E:\Колледж\3_КУРС\УЧЕБНАЯ ПРАКТИКА\Praktika20IS3-3Smirnova\SmirnovaPR8\Domain\obj\Debug\net6.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\Колледж\3_КУРС\УЧЕБНАЯ ПРАКТИКА\Praktika20IS3-3Smirnova\SmirnovaPR8\Domain\obj\Debug\net6.0\Domain.AssemblyInfoInputs.cache
+E:\Колледж\3_КУРС\УЧЕБНАЯ ПРАКТИКА\Praktika20IS3-3Smirnova\SmirnovaPR8\Domain\obj\Debug\net6.0\Domain.AssemblyInfo.cs
+E:\Колледж\3_КУРС\УЧЕБНАЯ ПРАКТИКА\Praktika20IS3-3Smirnova\SmirnovaPR8\Domain\obj\Debug\net6.0\Domain.csproj.CoreCompileInputs.cache
+E:\Колледж\3_КУРС\УЧЕБНАЯ ПРАКТИКА\Praktika20IS3-3Smirnova\SmirnovaPR8\Domain\obj\Debug\net6.0\Domain.dll
+E:\Колледж\3_КУРС\УЧЕБНАЯ ПРАКТИКА\Praktika20IS3-3Smirnova\SmirnovaPR8\Domain\obj\Debug\net6.0\refint\Domain.dll
+E:\Колледж\3_КУРС\УЧЕБНАЯ ПРАКТИКА\Praktika20IS3-3Smirnova\SmirnovaPR8\Domain\obj\Debug\net6.0\Domain.pdb
+E:\Колледж\3_КУРС\УЧЕБНАЯ ПРАКТИКА\Praktika20IS3-3Smirnova\SmirnovaPR8\Domain\obj\Debug\net6.0\Domain.genruntimeconfig.cache
+E:\Колледж\3_КУРС\УЧЕБНАЯ ПРАКТИКА\Praktika20IS3-3Smirnova\SmirnovaPR8\Domain\obj\Debug\net6.0\ref\Domain.dll
