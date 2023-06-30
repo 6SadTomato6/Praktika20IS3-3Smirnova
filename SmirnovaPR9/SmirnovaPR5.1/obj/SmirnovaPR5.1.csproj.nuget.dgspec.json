@@ -1,0 +1,342 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Колледж\\3_КУРС\\УЧЕБНАЯ ПРАКТИКА\\Praktika20IS3-3Smirnova\\SmirnovaPR9\\SmirnovaPR5.1\\SmirnovaPR5.1.csproj": {}
+  },
+  "projects": {
+    "D:\\Колледж\\3_КУРС\\УЧЕБНАЯ ПРАКТИКА\\Praktika20IS3-3Smirnova\\SmirnovaPR9\\BusinessLogic\\BusinessLogic.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Колледж\\3_КУРС\\УЧЕБНАЯ ПРАКТИКА\\Praktika20IS3-3Smirnova\\SmirnovaPR9\\BusinessLogic\\BusinessLogic.csproj",
+        "projectName": "BusinessLogic",
+        "projectPath": "D:\\Колледж\\3_КУРС\\УЧЕБНАЯ ПРАКТИКА\\Praktika20IS3-3Smirnova\\SmirnovaPR9\\BusinessLogic\\BusinessLogic.csproj",
+        "packagesPath": "C:\\Users\\elena\\.nuget\\packages\\",
+        "outputPath": "D:\\Колледж\\3_КУРС\\УЧЕБНАЯ ПРАКТИКА\\Praktika20IS3-3Smirnova\\SmirnovaPR9\\BusinessLogic\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\elena\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\Колледж\\3_КУРС\\УЧЕБНАЯ ПРАКТИКА\\Praktika20IS3-3Smirnova\\SmirnovaPR9\\Domain\\Domain.csproj": {
+                "projectPath": "D:\\Колледж\\3_КУРС\\УЧЕБНАЯ ПРАКТИКА\\Praktika20IS3-3Smirnova\\SmirnovaPR9\\Domain\\Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.14, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[6.0.14, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.14, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Колледж\\3_КУРС\\УЧЕБНАЯ ПРАКТИКА\\Praktika20IS3-3Smirnova\\SmirnovaPR9\\DataAccess\\DataAccess.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Колледж\\3_КУРС\\УЧЕБНАЯ ПРАКТИКА\\Praktika20IS3-3Smirnova\\SmirnovaPR9\\DataAccess\\DataAccess.csproj",
+        "projectName": "DataAccess",
+        "projectPath": "D:\\Колледж\\3_КУРС\\УЧЕБНАЯ ПРАКТИКА\\Praktika20IS3-3Smirnova\\SmirnovaPR9\\DataAccess\\DataAccess.csproj",
+        "packagesPath": "C:\\Users\\elena\\.nuget\\packages\\",
+        "outputPath": "D:\\Колледж\\3_КУРС\\УЧЕБНАЯ ПРАКТИКА\\Praktika20IS3-3Smirnova\\SmirnovaPR9\\DataAccess\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\elena\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\Колледж\\3_КУРС\\УЧЕБНАЯ ПРАКТИКА\\Praktika20IS3-3Smirnova\\SmirnovaPR9\\Domain\\Domain.csproj": {
+                "projectPath": "D:\\Колледж\\3_КУРС\\УЧЕБНАЯ ПРАКТИКА\\Praktika20IS3-3Smirnova\\SmirnovaPR9\\Domain\\Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.14, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[6.0.14, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.14, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Колледж\\3_КУРС\\УЧЕБНАЯ ПРАКТИКА\\Praktika20IS3-3Smirnova\\SmirnovaPR9\\Domain\\Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Колледж\\3_КУРС\\УЧЕБНАЯ ПРАКТИКА\\Praktika20IS3-3Smirnova\\SmirnovaPR9\\Domain\\Domain.csproj",
+        "projectName": "Domain",
+        "projectPath": "D:\\Колледж\\3_КУРС\\УЧЕБНАЯ ПРАКТИКА\\Praktika20IS3-3Smirnova\\SmirnovaPR9\\Domain\\Domain.csproj",
+        "packagesPath": "C:\\Users\\elena\\.nuget\\packages\\",
+        "outputPath": "D:\\Колледж\\3_КУРС\\УЧЕБНАЯ ПРАКТИКА\\Praktika20IS3-3Smirnova\\SmirnovaPR9\\Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\elena\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.14, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[6.0.14, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.14, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Колледж\\3_КУРС\\УЧЕБНАЯ ПРАКТИКА\\Praktika20IS3-3Smirnova\\SmirnovaPR9\\SmirnovaPR5.1\\SmirnovaPR5.1.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Колледж\\3_КУРС\\УЧЕБНАЯ ПРАКТИКА\\Praktika20IS3-3Smirnova\\SmirnovaPR9\\SmirnovaPR5.1\\SmirnovaPR5.1.csproj",
+        "projectName": "SmirnovaPR5.1",
+        "projectPath": "D:\\Колледж\\3_КУРС\\УЧЕБНАЯ ПРАКТИКА\\Praktika20IS3-3Smirnova\\SmirnovaPR9\\SmirnovaPR5.1\\SmirnovaPR5.1.csproj",
+        "packagesPath": "C:\\Users\\elena\\.nuget\\packages\\",
+        "outputPath": "D:\\Колледж\\3_КУРС\\УЧЕБНАЯ ПРАКТИКА\\Praktika20IS3-3Smirnova\\SmirnovaPR9\\SmirnovaPR5.1\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\elena\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\Колледж\\3_КУРС\\УЧЕБНАЯ ПРАКТИКА\\Praktika20IS3-3Smirnova\\SmirnovaPR9\\BusinessLogic\\BusinessLogic.csproj": {
+                "projectPath": "D:\\Колледж\\3_КУРС\\УЧЕБНАЯ ПРАКТИКА\\Praktika20IS3-3Smirnova\\SmirnovaPR9\\BusinessLogic\\BusinessLogic.csproj"
+              },
+              "D:\\Колледж\\3_КУРС\\УЧЕБНАЯ ПРАКТИКА\\Praktika20IS3-3Smirnova\\SmirnovaPR9\\DataAccess\\DataAccess.csproj": {
+                "projectPath": "D:\\Колледж\\3_КУРС\\УЧЕБНАЯ ПРАКТИКА\\Praktika20IS3-3Smirnova\\SmirnovaPR9\\DataAccess\\DataAccess.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Mapster": {
+              "target": "Package",
+              "version": "[7.3.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.14, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[6.0.14, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.14, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.2.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
